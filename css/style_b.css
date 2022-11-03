@@ -222,8 +222,6 @@ h3{
 
 .block-header h3{
    max-width: 100%;
-   font-weight: 700;
-   text-transform: 700;
 }
 
 .block-header .watch{
@@ -248,7 +246,7 @@ h3{
 
 .chronology-item{
    opacity: 0;
-   transform: rotateY(26px);
+   transform: translateY(26px);
    transition: all 0.6s cubic-bezier(0.645,0.045,0.355,1);
 }
 
